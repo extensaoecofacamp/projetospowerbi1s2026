@@ -1,5 +1,6 @@
 # As Contas Nacionais Trimestrais (CNT)
-Grupo 2: Douglas Montanheiro Filho, João Paulo Lima Pondian, Pedro Campos Lambertini e Pedro Henrique Da Cruz Olmedo
+**Grupo 2: Douglas Montanheiro Filho, João Paulo Lima Pondian, Pedro Campos Lambertini e Pedro Henrique Da Cruz Olmedo**
+---
 ## O que são e por que existem?
 As contas trimestrais servem para dar um diagnóstico rápido da economia (o famoso PIB) sem ter que esperar o ano acabar
 
