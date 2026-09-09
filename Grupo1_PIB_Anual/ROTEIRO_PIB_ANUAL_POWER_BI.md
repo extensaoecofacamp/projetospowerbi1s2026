@@ -1,6 +1,6 @@
 # Análise do PIB com Power BI e SIDRA/IBGE
 
-**Grupo 1 — Roteiro FACEU**
+**Grupo 1**
 
 ---
 
