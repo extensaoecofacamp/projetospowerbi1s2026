@@ -1,4 +1,5 @@
 # As Contas Nacionais Trimestrais (CNT)
+Grupo 2
 ## O que são e por que existem?
 As contas trimestrais servem para dar um diagnóstico rápido da economia (o famoso PIB) sem ter que esperar o ano acabar
 
