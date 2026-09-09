@@ -1,6 +1,6 @@
 # Análise do PIB com Power BI e SIDRA/IBGE
 
-**Grupo 1**
+**Grupo 1: Elisa Monteiro De Souza Furtado, Fabricio De Castro e Marina Patelli Miotto**
 
 ---
 
